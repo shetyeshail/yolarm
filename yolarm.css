@@ -1,6 +1,8 @@
+body {
+  background-color: #9B59B6;
+}
 .introView{
   text-align: center;
-  background-color: #9B59B6;
   width: 1258px;
   height: 575px;
 }

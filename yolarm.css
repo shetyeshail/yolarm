@@ -1,9 +1,11 @@
 .introView{
   text-align: center;
-  color: #9B59B6;
+  background-color: #9B59B6;
+  width: 1258px;
+  height: 575px;
 }
 h1 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 45px;
-  font-color: white;
+  font-size: 100px;
+  color: white;
 }

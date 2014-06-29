@@ -1,0 +1,19 @@
+body {
+  background-color: #9B59B6;
+  text-align: center;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+.introView{
+  width: 1258px;
+  height: 575px;
+
+}
+h1 {
+  font-size: 200px;
+  color: white;
+  font-weight: 900px;
+}
+p {
+  font-size: 42px;
+}
